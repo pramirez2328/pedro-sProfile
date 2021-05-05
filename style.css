@@ -117,11 +117,14 @@ h2 {
   /* For a screen < 540px, this CSS will be read */
   #container {
     padding: 0.5rem;
+    margin: auto;
   }
-  #top {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  h1 {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 140%;
+    color: rgb(4, 0, 255);
+  }
+  #article {
+    font-size: small;
   }
 }
