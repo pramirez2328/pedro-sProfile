@@ -127,5 +127,7 @@ h2 {
   #article {
     font-size: small;
   }
-
+  
+  #bottom {
+    width: 350px;
 }
